@@ -1,0 +1,31 @@
+﻿1,Triangle,Triangle has 3 edges,Triangle.png
+2,Sphere,Sphere Surface Area = 4πr2,sphere_radius.png
+3,Box,The formula for finding the volume is length x width x height: l x w x h,volume_box.png
+4,Circle,The circle circumference requls 2πr,circle_circumference.png
+5,Circle,Sector is a part of the circle,circle_sector_chord.png
+6,Circle,Circle radius is the distance points on cirlce have to center point,circle_radius.png
+7,Triangle,Pythagorean triangle implements a^2 + b^2 = c^2,triangle_pythagorean.png
+8,Parallelogram,parallelogram is a simple quadrilateral with two pairs of parallel sides,parallelogram.png
+9,Square,Square is a polygon whose edges equal distance and has equal angles,square.png
+10,Rectangel,Rectangel has 2 sets of equal edges and 4 90 deg angles,rectangle.png
+11,Rhombus,Rhombus is a quadrilateral whose four sides all have the same length,rhombus.png
+12,Triangle,Triangel's sum of angels is 360
+13,Trianle,Triangle can have only one 90 degree angle
+14,Line,straight lines are written as f(x)=mx+n
+15,Circle,3D Circle is called Sphere
+16,Square,3D Square is called Cube
+17,Hexagon,Hectagon has 6 edges
+18,Hexagon,Hectagon has sum of angels euqls to 720
+19,Hexagon,Hectagon has 6 angles
+20,Octagon,Octagonhas 8 edges
+21,Octagon,Octagon has sum of angels euqls to 1080
+22,Octagon,Octagon has 8 angles
+23,Pentagon,Pentagon 5 edges
+24,Pentagon,Pentagon has sum of angels euqls to 540
+25,Pentagon,Pentagon has 5 angles
+26,Heptagon,Heptagon 7 edges
+27,Heptagon,Heptagon has sum of angels euqls to 900
+28,Heptagon,Heptagon has 7 angles
+29,Decagon,Decagon 10 edges
+30,Decagon,Decagon has sum of angels euqls to 1440
+31,Decagon,Decagon has 10 angles
